@@ -1,6 +1,6 @@
 export default function Text(){
     return(
-        <div>Compopnent Import</div>
+        <div>Compopnent Import!</div>
     );
 }
 
